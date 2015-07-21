@@ -25,7 +25,7 @@ Root directory path to start import from.
 * The utility support up to 10 sets of directory and extensions combinations, where each combination is identified by number RootDir1, RootDir2, RootDir3, etc.
 * The numbers shell be sequential  
 
-	  <add key="RootDir1" value="c:\nimsf"/>
+	  example: <add key="RootDir1" value="c:\nimsf"/>
 	  
 ### FilesExt
 
@@ -34,7 +34,7 @@ File extensions to be imported
 * The utility support up to 10 sets of directory and extensions combinations, where each combination is identified by number FilesExt1, FilesExt2, FilesExt3, etc.
 * The numbers shell be sequential  
 	  
-	  <add key="FilesExt1" value="*.js"/>	
+	  example: <add key="FilesExt1" value="*.js"/>	
 
 
 ## Error Processing ("error levels")
